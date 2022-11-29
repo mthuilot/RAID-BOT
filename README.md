@@ -1,4 +1,4 @@
 # Discord nuke/raid bot
 
-Finaly version by mth from ProjectEternal
-discord: https://discord.gg/SttK6Apy7C
+Final version. I will not update or fix it because server nuking is cancer.
+Made it for fun while learning discord.js.
